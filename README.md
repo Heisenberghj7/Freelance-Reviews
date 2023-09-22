@@ -1,6 +1,6 @@
 ## Freelance-Reviews
 
-## `Project 1: Big data analysis using a Hadoop clustrer and Mapreduce`
+## `Project 1: Big data analysis using a Hadoop cluster and Mapreduce`
 <img src="p7-hdfs-mapreduce.png">
 
 ## `Project 2: Price comparator bot`
